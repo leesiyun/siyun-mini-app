@@ -13,9 +13,9 @@ _2022/08/04 (목) ~ 2022/08/28 (일)_
 | # | Title | 
 |:---:|:---:|
 | 1 |  [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) |
-| 2 | |
-| 3 | |
-| 4 | |
+| 2 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)|
+| 3 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|
+| 4 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)|
 | 5 | |
 | 6 | | 
 | 7 | |
