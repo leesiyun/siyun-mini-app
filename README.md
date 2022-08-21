@@ -19,7 +19,7 @@ _2022/08/04 (목) ~ 2022/08/28 (일)_
 | 5 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|
 | 6 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)| 
 | 7 | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|
-| 8 | |
-| 9 | |
-| 10 | |
+| 8 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|
+| 9 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|
+| 10 | [약수와 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|
  
