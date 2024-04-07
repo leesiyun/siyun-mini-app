@@ -33,7 +33,7 @@ const GoogleCalendarStyle = styled.div`
   width: 800px;
   a {
     color: rgb(60, 64, 67) !important;
-  }import { GoogleCalendar } from '@/pages';
+  }
 
   .fc-event {
     cursor: default;
